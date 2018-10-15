@@ -1,13 +1,13 @@
 # 2018 PIF Foundation Election Candidacy Statements
 
-## Alison Rowland - 2018 Election
+## Alison Rowland
 
 ![Rowland](https://avatars1.githubusercontent.com/u/166715?s=460&v=4)
 
 Alison is a veteran of three govtech programs. In 2013 she became a second-round PIF, subsequently co-founded 18F and later became Development Lead at the Commerce Data Service. Alison found her calling in civic tech, and as a PIFF board member, Alison hopes to help others realize the same mission, creating technology for the American people. As a board member, Alison's goals would include: achieving continuity of programs, such as the alumni weekend, as long-standing Board members complete their terms; help recruit a diverse slate of Fellows and welcome them to the community, especially through the PIF onboarding experience; and continue to develop the Speakers' Bureau, as it is so important to foster the spread of great ideas and innovation, get word out about the program, and to provide ongoing opportunities for alumni. In addition, Alison would like to propose a "phone-a-friend" program, for current PIFs to get advice from alumni who are amongst the few people who've been in their shoes. Alison's strengths are in listening, achieving consensus, being a force multiplier, and a strong commitment to diversity and inclusion. She would bring all of these, along with her deep history in govtech, to the PIFF board.
 
 
-## Henry Wei - 2018 Election
+## Henry Wei 
 
 ![Wei](https://media.licdn.com/dms/image/C4D03AQFHBQo3qRnCOQ/profile-displayphoto-shrink_800_800/0?e=1544054400&v=beta&t=8LGsJENH6EoHWg4Uovu-V_FGPFFG9SNQEm08fDNTn_4)
 
