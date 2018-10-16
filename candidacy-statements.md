@@ -8,9 +8,9 @@ As one of the longest serving Presidential Innovation Fellows I have seen the pr
 
 If elected, I would focus on two major areas, in-part building off the PIF Foundation 2017 survey: brand and alumni experience.
 
-1. Brand. The US Digital Service and 18F, two amazing organizations in their own right, have become synonymous with government transformation. I think the PIF program occupies its own space and unique value proposition. Working with the PIF program team, I would partner with my fellow board members to launch a new initiative to elevate the PIF brand. This might look like a variety of things, but could be in the form of a podcast, a book, speaking opportunities, 
+1. "Brand". The US Digital Service and 18F, two amazing organizations in their own right, have become synonymous with government transformation. I think the PIF program occupies its own space and unique value proposition. Working with the PIF program team, I would partner with my fellow board members to launch a new initiative to elevate the PIF brand. This might look like a variety of things, but could be in the form of a podcast, a book, speaking opportunities, 
 
-2. Alumni experience. Alumni networks are strengthened by engaging and in-person experiences. If elected I would identify those needs and work with the board and the alumni community to plan new events. If budget is an issue, I would look to find new ways to increase our budget.
+2. "Alumni experience". Alumni networks are strengthened by engaging and in-person experiences. If elected I would identify those needs and work with the board and the alumni community to plan new events. If budget is an issue, I would look to find new ways to increase our budget.
 
 The PIF program changed my life. It would be my honor to serve the PIF Foundation, bring new ideas to the Foundation,  and partner with other board members to strengthen the community. 
 
