@@ -1,5 +1,22 @@
 # 2018 PIF Foundation Election Candidacy Statements
 
+## Justin Koufopoulos
+
+![Koufopoulos](https://media.licdn.com/dms/image/C4D03AQHytv0wcO6MRA/profile-displayphoto-shrink_800_800/0?e=1545264000&v=beta&t=AvC2mxa6b6GFDULfGcF6vSHXAowJY43C_qXmMt3fgnU)
+
+As one of the longest serving Presidential Innovation Fellows I have seen the program go through multiple iterations, bring in new classes, and change leadership twice. I’ve also seen the gaps in the program and in the alumni experience. Before PIF, outside of my work in technology/startups, I built successful alumni initiatives for the Fulbright program that exist and continue to scale to this day.
+
+If elected, I would focus on two major areas, in-part building off the PIF Foundation 2017 survey: brand and alumni experience.
+
+1. Brand. The US Digital Service and 18F, two amazing organizations in their own right, have become synonymous with government transformation. I think the PIF program occupies its own space and unique value proposition. Working with the PIF program team, I would partner with my fellow board members to launch a new initiative to elevate the PIF brand. This might look like a variety of things, but could be in the form of a podcast, a book, speaking opportunities, 
+
+2. Alumni experience. Alumni networks are strengthened by engaging and in-person experiences. If elected I would identify those needs and work with the board and the alumni community to plan new events. If budget is an issue, I would look to find new ways to increase our budget.
+
+The PIF program changed my life. It would be my honor to serve the PIF Foundation, bring new ideas to the Foundation,  and partner with other board members to strengthen the community. 
+
+Justin has been a Presidential Innovation Fellow since January 2016. He worked on strengthening communities through affordable Internet access, precision medicine and healthcare, and building product leadership at the agency leadership level.
+
+
 ## Alison Rowland
 
 ![Rowland](https://avatars1.githubusercontent.com/u/166715?s=460&v=4)
@@ -13,6 +30,8 @@ Alison is a veteran of three govtech programs. In 2013 she became a second-round
 
 Hello. I'm Henry, the doctor from Round 1.  Please do *not* vote for me.  I just wanted to say hi to everyone and exploit this process to share a quirky story from the inception of the Foundation.  I am likely to share this repeatedly every couple of years.
 
+<<<<<<< Local Changes
+=======
 Back then, I was on the provisional Board, and we were figuring out how to randomly and fairly decide who would get the 1-year vs 2-year seats to begin the offset Board terms.  We didn’t want everyone being re-elected all at once, and I’m sure there’s some good justification for that somewhere.
 
 At 7:10pm ET the night we were to decide, I wrote to Adam Riggs (R2) and Raph Majma (R1):  "Okay I'm going to head to the grocery store and buy five mega millions lottery tickets randomly generated, then I'll write the new board members names on each new one, one for each member. I'll photo this and send to you both. The two with the numbers closest to the winning lotto numbers tonight (highest number of exact matches but then if tie etc closest on the bonus ball to the actual winning bonus number) get the 2-year terms."  
@@ -25,6 +44,7 @@ I pen an extensive email to Raph and Adam and make sure the time stamp is clear 
 complicate the procedure with naturally occurring state lottery results?
 
 At 1 a.m., Adam Riggs emails me back: "Good Lord."
+>>>>>>> External Changes
 
 Later at 5:33 am I wake up and check the results and we have our first PIF Foundation Board seats assigned and offset properly so that not every seat is turning over at the same time.  
 
