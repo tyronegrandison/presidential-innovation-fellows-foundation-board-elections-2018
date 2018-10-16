@@ -30,8 +30,6 @@ Alison is a veteran of three govtech programs. In 2013 she became a second-round
 
 Hello. I'm Henry, the doctor from Round 1.  Please do *not* vote for me.  I just wanted to say hi to everyone and exploit this process to share a quirky story from the inception of the Foundation.  I am likely to share this repeatedly every couple of years.
 
-<<<<<<< Local Changes
-=======
 Back then, I was on the provisional Board, and we were figuring out how to randomly and fairly decide who would get the 1-year vs 2-year seats to begin the offset Board terms.  We didn’t want everyone being re-elected all at once, and I’m sure there’s some good justification for that somewhere.
 
 At 7:10pm ET the night we were to decide, I wrote to Adam Riggs (R2) and Raph Majma (R1):  "Okay I'm going to head to the grocery store and buy five mega millions lottery tickets randomly generated, then I'll write the new board members names on each new one, one for each member. I'll photo this and send to you both. The two with the numbers closest to the winning lotto numbers tonight (highest number of exact matches but then if tie etc closest on the bonus ball to the actual winning bonus number) get the 2-year terms."  
@@ -44,7 +42,6 @@ I pen an extensive email to Raph and Adam and make sure the time stamp is clear 
 complicate the procedure with naturally occurring state lottery results?
 
 At 1 a.m., Adam Riggs emails me back: "Good Lord."
->>>>>>> External Changes
 
 Later at 5:33 am I wake up and check the results and we have our first PIF Foundation Board seats assigned and offset properly so that not every seat is turning over at the same time.  
 
