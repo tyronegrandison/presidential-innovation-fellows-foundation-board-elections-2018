@@ -2,7 +2,7 @@
 
 ## Justin Koufopoulos
 
-![Koufopoulos](https://media.licdn.com/dms/image/C4D03AQHytv0wcO6MRA/profile-displayphoto-shrink_800_800/0?e=1545264000&v=beta&t=AvC2mxa6b6GFDULfGcF6vSHXAowJY43C_qXmMt3fgnU =250x100)
+![Koufopoulos](https://media.licdn.com/dms/image/C4D03AQHytv0wcO6MRA/profile-displayphoto-shrink_800_800/0?e=1545264000&v=beta&t=AvC2mxa6b6GFDULfGcF6vSHXAowJY43C_qXmMt3fgnU)
 
 As one of the longest serving Presidential Innovation Fellows I have seen the program go through multiple iterations, bring in new classes, and change leadership twice. I’ve also seen the gaps in the program and in the alumni experience. Before PIF, outside of my work in technology/startups, I built successful alumni initiatives for the Fulbright program that exist and continue to scale to this day.
 
